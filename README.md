@@ -1,2 +1,2 @@
-# leadstracker
-Leads Tracker Chrome extension
+# linkr
+Link Tracker Chrome extension
